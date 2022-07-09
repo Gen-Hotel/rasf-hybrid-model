@@ -7,6 +7,17 @@ Please refer to the latter for all information concerning the methods used.
 
 This repository includes:
 
-- RASF-model's statistical analysis, i.e. cellular-specificity assessment and annotation score calculation;
-- Framework for hybrid modeling, i.e. value propagation, regulatory trap-spaces identification and projection on metabolic compounds, extraction of metabolic fluxes constraints and subsequent Flux Balance Analysis;
-- Regulatory initial condition’s knock-out/knock-in simulations. 
+1.  RASF-model's statistical analysis:
+
+- Cellular-specificity assessment;
+- Annotation score calculation.
+
+2. Framework for hybrid modeling:
+
+- Value propagation;
+- Regulatory trap-spaces identification;
+- Regulatory trap-spaces projection on metabolic compounds;
+- Extraction of metabolic fluxes constraints;
+- Flux Balance Analysis;
+
+3. Regulatory initial condition’s knock-out/knock-in simulations. 
