@@ -1,4 +1,4 @@
-species <- read.csv("RASF_model_components.csv", sep=";", header=F)
+species <- read.csv("RASF_model_components_2.csv", sep=";", header=F)
 
 df = data.frame(species$V2)
 
